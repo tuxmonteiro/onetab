@@ -1,0 +1,219 @@
+http://www.gridshore.nl/2012/06/03/first-steps-with-vert-x-creating-a-websocket-sample/ | First steps with vert.x: creating a WebSocket sample - Gridshore
+https://github.com/eclipse/vert.x/blob/master/vertx-core/src/main/java/org/vertx/java/core/http/RouteMatcher.java | vert.x/vertx-core/src/main/java/org/vertx/java/core/http/RouteMatcher.java at master · eclipse/vert.x
+
+http://yum.globoi.com/centos/6/globo/x86_64/ | Index of /centos/6/globo/x86_64
+https://github.com/cloudfoundry/gorouter | cloudfoundry/gorouter
+http://lbaas.globoi.com/admin/logical/virtualhost/ | Select virtual host to change | LBaaS
+http://golang.org/pkg/runtime/ | runtime - The Go Programming Language
+https://gist.github.com/fsouza/10425437 | proxy.go
+http://veja.abril.com.br/noticia/celebridades/star-wars-episodio-vii-se-passara-30-anos-apos-o-retorno-de-jedi | ‘Star Wars: Episódio VII’ se passará 30 anos após 'O Retorno de Jedi'  - Celebridades - Notícia - VEJA.com
+
+http://vertx.io/embedding_manual.html | Vert.x
+https://gist.github.com/maksimov/8906462 | Ignore unsupported M2E goals
+http://dev.eclipse.org/mhonarc/lists/m2e-dev/msg00409.html | Re: [m2e-dev] Conflicting lifecycle mapping ?
+ftp://ftp.redhat.com/redhat/rhel/beta/7/x86_64/iso/ | Índice de /redhat/rhel/beta/7/x86_64/iso/
+https://www.google.com.br/search?q=macbook+pro+fedora+20&oq=mac+book+pro+fedora&aqs=chrome.2.69i57j0l5.14342j0j7&sourceid=chrome&es_sm=119&ie=UTF-8 | macbook pro fedora 20 - Pesquisa Google
+http://chaidarun.com/fedora-mbp | Fedora 20 on the MacBook Pro | Art Chaidarun
+
+http://books.sonatype.com/nexus-book/reference/confignx-sect-manage-repo.html | Repository Management with Nexus - 6.2. Managing Repositories - Sonatype.com
+http://www.sonatype.org/nexus/go | Sonatype.org
+http://www.yaw.com.br/screencast/show/maven-core-plugins-build/ | YaW Tecnologia - Screencasts | Maven: Conceitos básicos, o uso de plugins e etapas do build
+https://www.youtube.com/user/yawtecnologia/videos | yawtecnologia's channel - YouTube
+http://www.alura.com.br/ | Cursos online de Tecnologia- Alura
+http://www.slideshare.net/rodrigobranas/maven-em-10-minutos | Maven em 10 minutos
+
+http://www.packtpub.com/article/deploying-a-vert-x-application | Deploying a Vert.x application | Packt Publishing
+http://logging.apache.org/log4j/2.x/ | Log4j 2 Guide - Apache Log4j 2
+https://logging.apache.org/log4j/1.2/ | Apache log4j 1.2 -
+http://www.slf4j.org/ | SLF4J
+
+http://www.manning.com/maurer/ | Manning: Netty in Action
+http://www.foxebook.net/storm-real-time-processing-cookbook/ | Storm Real-Time Processing Cookbook - PDF Free Download - Fox eBook
+http://www.foxebook.net/java-8-lambdas-pragmatic-functional-programming/ | Java 8 Lambdas: Pragmatic Functional Programming - PDF Free Download - Fox eBook
+http://www.foxebook.net/continuous-enterprise-development-in-java/ | Continuous Enterprise Development in Java - PDF Free Download - Fox eBook
+http://www.foxebook.net/kanban-in-action/ | Kanban in Action - PDF Free Download - Fox eBook
+http://www.foxebook.net/play-for-java-covers-play-2/ | Play for Java: Covers Play 2 - PDF Free Download - Fox eBook
+http://www.foxebook.net/advanced-topics-in-java-core-concepts-in-data-structures/ | Advanced Topics in Java: Core Concepts in Data Structures - PDF Free Download - Fox eBook
+http://www.foxebook.net/irresistible-apps/ | Irresistible Apps - PDF Free Download - Fox eBook
+http://www.foxebook.net/java-se-8-for-the-really-impatient/ | Java SE 8 for the Really Impatient - PDF Free Download - Fox eBook
+http://www.foxebook.net/learning-web-app-development/ | Learning Web App Development - PDF Free Download - Fox eBook
+http://www.foxebook.net/getting-started-with-citrix-cloudportal/ | Getting Started with Citrix CloudPortal - PDF Free Download - Fox eBook
+http://www.foxebook.net/software-testing-in-the-cloud-migration-and-execution/ | Software Testing in the Cloud: Migration and Execution - PDF Free Download - Fox eBook
+http://www.foxebook.net/software-engineering-frameworks-cloud-computing-paradigm/ | Software Engineering Frameworks for the Cloud Computing Paradigm - PDF Free Download - Fox eBook
+http://www.foxebook.net/cloud-computing-methods-practical-approaches/ | Cloud Computing: Methods and Practical Approaches - PDF Free Download - Fox eBook
+http://www.foxebook.net/cloud-capacity-management/ | Cloud Capacity Management - PDF Free Download - Fox eBook
+http://www.foxebook.net/securing-the-cloud-cloud-computer-security-techniques-and-tactics/ | Securing the Cloud: Cloud Computer Security Techniques and Tactics - PDF Free Download - Fox eBook
+http://www.foxebook.net/akka-essentials/ | Akka Essentials - PDF Free Download - Fox eBook
+http://www.hazelcast.org/getting-started/ | Getting Started Tutorial | Hazelcast.org
+http://java.dzone.com/articles/getting-started-hazelcast | Getting Started with Hazelcast | Javalobby
+http://storm.incubator.apache.org/documentation/Home.html | Storm Documentation
+http://zookeeper.apache.org/doc/trunk/zookeeperStarted.html | ZooKeeper Getting Started Guide
+
+http://www.gitignore.io/api/ | www.gitignore.io/api/
+http://www.clouds360.com/iaas.php | The Top 20 Infrastructure as a Service (IaaS) Vendors
+http://www.rackspace.com/pt/cloud/load-balancing/features/ | Load balancing como serviço – Cloud Load Balancers da Rackspace
+
+https://github.com/hashicorp/serf/blob/master/serf/serf.go | serf/serf/serf.go at master · hashicorp/serf
+http://godoc.org/github.com/ant0ine/go-json-rest | go-json-rest - GoDoc
+https://github.com/ant0ine/go-json-rest | ant0ine/go-json-rest
+https://github.com/cloudfoundry/gorouter/search?q=InfoRoutes&ref=cmdform | Search Results
+
+http://en.wikipedia.org/wiki/Communicating_sequential_processes | Communicating sequential processes - Wikipedia, the free encyclopedia
+http://pt.wikipedia.org/wiki/Scrum | Scrum – Wikipédia, a enciclopédia livre
+
+http://pt.wikipedia.org/wiki/Design_thinking | Design thinking – Wikipédia, a enciclopédia livre
+https://cwiki.apache.org/confluence/display/CLOUDSTACK/CloudStack+cloudmonkey+CLI | CloudStack cloudmonkey CLI - Apache Cloudstack - Apache Software Foundation
+http://cloudstack.apache.org/ | Apache CloudStack: Open Source Cloud Computing
+http://www.kegel.com/c10k.html | The C10K problem
+https://globo.service-now.com/navpage.do | ServiceNow
+https://github.com/apcera/gnatsd | apcera/gnatsd
+https://github.com/derekcollison/nats | derekcollison/nats
+http://www.gnu.org/software/gnats/doc/gnats-4.1.999/html_node/index.html#Top | Keeping Track
+http://godoc.org/github.com/apcera/gnatsd | godoc.org/github.com/apcera/gnatsd
+http://www.reddit.com/r/golang/comments/1oqqx7/gnatsd_from_apcera_a_high_performance_nats_server/?utm_medium=twitter&utm_source=twitterfeed | gnatsd from apcera-- a high performance NATS server written in go : golang
+http://www.activestate.com/blog/tag/blog-tags/gnatsd | gnatsd
+http://codemesh.io/slides/andrew-crump.pdf | codemesh.io/slides/andrew-crump.pdf
+http://git.openstack.org/cgit/openstack/neutron/tree/neutron/agent | openstack/neutron - neutron
+http://docs.openstack.org/admin-guide-cloud/content/network-connectivity.html | Network connectivity for physical hosts - OpenStack Cloud Administrator Guide  - havana
+http://www.citrix.com/products/cloudplatform/overview.html | CloudPlatform - Cloud Orchestration to support Infrastructure-as-a-Service - Citrix
+http://en.wikipedia.org/wiki/Event-driven_programming | Event-driven programming - Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Event-driven_architecture | Event-driven architecture - Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Actor_model_implementation | Actor model implementation - Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Communicating_sequential_processes | Communicating sequential processes - Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Actor_model | Actor model - Wikipedia, the free encyclopedia
+http://labix.org/gocheck | gocheck - Rich testing for Go
+https://gobyexample.com/non-blocking-channel-operations | Go by Example: Non-Blocking Channel Operations
+http://pt.wikipedia.org/wiki/Gprof | Gprof – Wikipédia, a enciclopédia livre
+http://golang.org/pkg/net/http/pprof/ | pprof - The Go Programming Language
+http://blog.golang.org/profiling-go-programs | Profiling Go Programs - The Go Blog
+https://github.com/tools/godep | tools/godep
+https://github.com/Homebrew/homebrew/issues/27529 | Upgraded to XCode 5.1 yesterday, cannot upgrade, cannot install tcl-tk · Issue #27529 · Homebrew/homebrew
+https://github.com/Homebrew/homebrew/wiki/troubleshooting | Troubleshooting · Homebrew/homebrew Wiki
+https://github.com/globocom/tsuru/issues/746 | supports cloudfoundry gorouter · Issue #746 · globocom/tsuru
+
+https://www.scrum.org/Scrum-Guide | Scrum Guide™ | Scrum.org - The home of Scrum
+http://www.userstories.com/products | US
+http://agilefant.com/ | Agilefant | Simple and powerful
+https://www.openshift.com/videos/free-apache-tomcat-hosting-in-the-cloud-for-java-applications-its-called-openshift | Free Apache Tomcat Hosting in the Cloud for Java Applications? It's Called OpenShift! | OpenShift by Red Hat
+
+http://atsbr.com/about-ats.php | Sobre a Americas Trading System Brasil, uma joint venture entre a Americas Trading Group (ATG) a NYSE Euronext
+http://atsbr.com/pdfs/06_Jan_14_Brasil_Economico_nova_bolsa.pdf | atsbr.com/pdfs/06_Jan_14_Brasil_Economico_nova_bolsa.pdf
+http://atsbr.com/pdfs/infomoney_ats_nova_bolsa.pdf | atsbr.com/pdfs/infomoney_ats_nova_bolsa.pdf
+http://atsbr.com/pdfs/Estadao-21-jan-2014.pdf | atsbr.com/pdfs/Estadao-21-jan-2014.pdf
+https://nysetechnologies.nyx.com/sites/technologies.nyx.com/files/L5756_NYSE%20Tech%20UTP_IM_OST_100105b.pdf | https://nysetechnologies.nyx.com/sites/technologies.nyx.com/files/L5756_NYSE Tech UTP_IM_OST_100105b.pdf
+
+http://www.serfdom.io/intro/vs-other-sw.html | Serf vs. Other Software - Serf
+http://www.dukascopy.com/tradercontest/ | Trader Contest - Dukascopy Community
+http://www.dukascopy.com/fxcomm/fx-article-contest/?action=all&language=en | Article Library - Forex Article Contest - Dukascopy Community
+http://www.dukascopy.com/wiki/#JForex_SDK | JForex Wiki
+http://www.dukascopy.com/wiki/#Strategy_API | JForex Wiki
+
+http://www.psicologiamsn.com/2014/03/48-documentarios-e-videos-de-psicologia-online-gratuitos-e-imperdiveis.html | 48 Documentários de Psicologia: online, gratuitos e imperdíveis | Sobre Psicologia | Psicologo Online
+
+https://graphite.readthedocs.org/en/latest/tools.html | Tools That Work With Graphite — Graphite 0.10.0 documentation
+http://giraffe.kenhub.com/#dashboard=Visuals&timeFrame=10m | giraffe.kenhub.com/#dashboard=Visuals&timeFrame=10m
+https://github.com/etsy/statsd | etsy/statsd
+
+http://stackoverflow.com/questions/4802482/how-to-send-success-message-if-we-use-django-generic-views | python - how to send success message if we use django generic views - Stack Overflow
+http://www.ibm.com/developerworks/br/library/os-django-admin/ | Fazendo Mais com o Admin do Django
+http://www.django-rest-framework.org/api-guide/fields | Serializer fields - Django REST framework
+http://www.django-rest-framework.org/#api-guide | Django REST framework - APIs made easy
+http://tech.gluga.com/2012/09/django-custom-log-handler-to-db-model.html | Django Custom Log Handler to DB Model | tech.gluga.com
+https://github.com/fzzy/radix | fzzy/radix
+http://redis.io/topics/sentinel | Redis Sentinel Documentation – Redis
+
+http://www.restapitutorial.com/ | REST API Tutorial
+http://stackoverflow.com/questions/13366312/django-celery-logging-best-practice | python - Django Celery Logging Best Practice - Stack Overflow
+http://blog.safariflow.com/2012/11/30/up-and-running-with-celery-and-django/ | Up and Running with Celery and Django (also cron is evil) | Safari Flow Blog
+
+https://github.com/Soaa-/django-nested-inlines | Soaa-/django-nested-inlines
+http://www.di.fm/ | Digitally Imported - addictive electronic music
+https://groups.google.com/forum/#!topic/django-brasil/YKBUQg7kqQM | Cobertura for Python - Grupos do Google
+
+https://github.com/anderspetersson/django-bigbrother | anderspetersson/django-bigbrother
+http://www.ijumper.com.br/blog/ | iJUMPER INSIGHTS — Portal do Novo Empreendedor Digital
+http://nippon.zulutrade.co.uk/trader/65717 | ZuluTrade - Desempenho do Negociador - FOREXZONE [SYS-M2]
+http://www.toptal.com/ | Exclusive Access to Top Developers | Toptal
+https://gist.github.com/carchrae/7466073 | ExampleClientGetter.java
+http://kulbirsaini.fedorapeople.org/stuff/intelligentmirror/INSTALL | kulbirsaini.fedorapeople.org/stuff/intelligentmirror/INSTALL
+http://kulbirsaini.fedorapeople.org/stuff/intelligentmirror/intelligentmirror-1.0.1-1/ | Fedora People - kulbirsaini.fedorapeople.org
+http://gofedora.com/intelligentmirror-intelligent-1-0-1/ | IntelligentMirror Gets Even More Intelligent (1.0.1)
+
+http://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098/ref=pd_rhf_dp_s_cp_4?ie=UTF8&refRID=0G7XWYRCA2NJA5M2J2VQ | Systems Performance: Enterprise and the Cloud: Brendan Gregg: 9780133390094: Amazon.com: Books
+http://www.amazon.com/Instant-Vert-x-Simone-Scarduzio/dp/1783282916/ref=pd_sim_sbs_b_1 | Instant Vert.x: Simone Scarduzio: 9781783282913: Amazon.com: Books
+http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=pd_rhf_dp_s_cp_3?ie=UTF8&refRID=0G7XWYRCA2NJA5M2J2VQ | Clean Code: A Handbook of Agile Software Craftsmanship: Robert C. Martin: 9780132350884: Amazon.com: Books
+http://www.membrane-soa.org/support/ | Support for Membrane SOA Products
+https://code.google.com/p/tamacat/ | tamacat - tamacat-httpd - Java HTTP Server / Reverse Proxy - - Google Project Hosting
+http://cherokee-project.com/doc/ | Cherokee Web Server | Cherokee Documentation
+http://www.zenloadbalancer.org/web/index.php?page=documentation | Documentation | Zen Load Balancer - Open source load balancer
+http://docs.wso2.org/display/ELB210/WSO2+Elastic+Load+Balancer+Documentation | WSO2 Elastic Load Balancer Documentation - Elastic Load Balancer 2.1.0 - WSO2 Documentation
+http://code.flickr.net/2009/12/02/flipping-out/ | Flipping Out | code.flickr.com
+http://degizmo.com/2010/03/22/getting-started-redis-and-python/ | DeGizmo » Blog Archive » Getting Started: Redis and Python
+https://github.com/andymccurdy/redis-py | andymccurdy/redis-py
+https://docs.djangoproject.com/en/1.5/topics/db/managers/ | Managers | Django documentation | Django
+http://stackoverflow.com/questions/18959664/inline-formset-django-and-foreignkey | python - Inline Formset Django and ForeignKey - Stack Overflow
+https://github.com/rafaelnovello/Django-Examples | rafaelnovello/Django-Examples
+http://south.readthedocs.org/en/latest/databaseapi.html | Database API — South 0.8.4 documentation
+http://stackoverflow.com/questions/13595991/contenttypes-contenttype-not-available-in-this-migration | django - contenttypes.contenttype not available in this migration - Stack Overflow
+https://groups.google.com/forum/#!topic/south-users/WYNh-XpISao | Problems accessing ContentTypes from a migration - Grupos do Google
+
+http://www.professoresdosucesso.com.br/13-coisas-que-pessoas-mentalmente-fortes-nao-fazem.html | 13 Coisas que pessoas mentalmente fortes não fazem — Professores Do Sucesso
+https://github.com/vert-x/vertx-mods/tree/gh-pages/mods/org.scala-lang.scala-library-v2.10.0 | vertx-mods/mods/org.scala-lang.scala-library-v2.10.0 at gh-pages · vert-x/vertx-mods
+https://github.com/vert-x/vertx-gradle-template | vert-x/vertx-gradle-template
+https://github.com/rhart/vertx-maven-plugin | rhart/vertx-maven-plugin
+https://github.com/jettro/vertx-samples | jettro/vertx-samples
+http://normanmaurer.me/presentations/2013-wjax-netty/#/ | Netty - Network - Application development the easy way
+http://netty.io/wiki/related-articles.html | Netty.docs: Related articles
+http://www.manning.com/maurer/ | Manning: Netty in Action
+http://www.manning.com/maurer/netty_meap_ch1.pdf | www.manning.com/maurer/netty_meap_ch1.pdf
+
+http://www.gradle.org/downloads | Gradle - Downloads
+http://django-rest-framework.org/ | Django REST framework - APIs made easy
+http://blog.supportpro.com/2013/07/multiple-ssl-certificates-on-a-single-ip-using-nginx/ | Multiple SSL Certificates on a Single IP Using Nginx | Server Management Tips
+https://devcenter.heroku.com/articles/http-routing | HTTP Routing | Heroku Dev Center
+http://mongobird.citsoft.net/?page_id=472 | License of mongobird | mongobird of CITSoft
+
+https://github.com/globocom/charms | globocom/charms
+https://jujucharms.com/precise/haproxy-21/ | Juju Admin
+http://haproxy.1wt.eu/ | HAProxy - The Reliable, High Performance TCP/HTTP Load Balancer
+https://cwiki.apache.org/confluence/display/CLOUDSTACK/DevCloud | DevCloud - Apache Cloudstack - Apache Software Foundation
+https://coderwall.com/p/il4eaw | Blitline Developers : Ubuntu 12.04 Beanstalkd Install
+
+https://github.com/dyve/django-bootstrap3 | dyve/django-bootstrap3
+http://wiki.nginx.org/3rdPartyModules | 3rdPartyModules - Nginx Community
+http://wiki.nginx.org/HttpLuaModule | HttpLuaModule - Nginx Community
+http://blog.dotcloud.com/under-the-hood-dotcloud-http-routing-layer | PaaS under the hood, episode 5: Distributed routing with Hipache | dotCloud Blog
+
+http://www.mindmeister.com/pt/134633604/best-news-curation-tools-for-independent-publishers-2012-by-robin-good | Best News Curation Tools for Independent Publishe... - MindMeister Mapa Mental
+http://www.mindmeister.com/pt/55395228/content-curation-tools-the-newsmaster-toolkit-by-robin-good-2012 | Content Curation Tools: The Newsmaster Toolkit by... - MindMeister Mapa Mental
+http://www.razorsocial.com/content-curation-tools/ | Content Curation Tools: A Curated List of Content Curation Tools
+http://www.prdaily.com/Main/Articles/15_topnotch_content_curation_tools_15378.aspx | 15 top-notch content curation tools | Articles | Home
+http://www.scoop.it/theme/create?cc=SubscriptionWizard | Create a topic | Scoop.it
+https://contentgems.com/users/46824/folders/6542 | ContentGems
+https://iflow.com/#/myflows/52a536390cf22f878209fc4e | My Flows - iFlow.com
+http://www.netvibes.com/privatepage/1#Geral | Netvibes (241)
+http://marketingland.com/content-curation-tools-concepts-41119 | Content Curation Tools & Concepts
+http://www.newsrewired.com/2013/04/05/five-types-of-content-curation-tools-for-journalists/ | news:rewired » Blog Archive » Five types of content curation tools for journalists
+http://www.teachthought.com/learning/55-content-curation-tools-to-discover-and-share-digital-content/ | 55 Content Curation Tools To Discover & Share Digital Content
+http://digitalsherpa.com/content-curation-tools/ | 5 Content Curation Tools To Get You Started DigitalSherpa
+
+http://www.infoq.com/br/presentations/web-analytics-MongoDB | Métricas na web em tempo real com MongoDB
+https://drupal.org/project/tattler | Tattler | Drupal.org
+https://about.twitter.com/products/tweetdeck | TweetDeck | About
+http://www.socialmention.com/# | Real Time Search - Social Mention
+
+http://www.zonacritica.com.br/lista-melhores-series-tv-tempos/# | Lista | As Melhores Séries de TV de Todos os Tempos - Zona Crítica
+http://patshaughnessy.net/2013/10/24/visualizing-garbage-collection-in-ruby-and-python/ | Visualizing Garbage Collection in Ruby and Python - Pat Shaughnessy
+
+http://blog.ragozin.info/2011/10/java-cg-hotspots-cms-and-heap.html | Alexey Ragozin: Java GC, HotSpot's CMS and heap fragmentation
+http://blog.ragozin.info/2012/03/secret-hotspot-option-improving-gc.html | Alexey Ragozin: Secret HotSpot option improving GC pauses on large heaps
+http://blog.ragozin.info/2011/12/garbage-collection-in-hotspot-jvm.html | Alexey Ragozin: Garbage collection in HotSpot JVM
+https://netbeans.org/kb/docs/web/grails-quickstart_pt_BR.html | Introdução ao Framework do Grails na Web
+
+http://olhardigital.uol.com.br/noticia/37954/37954 | Olhar Digital: Google lança ferramenta grátis para criação de páginas em HTML 5
+http://imasters.com.br/desenvolvimento/design-do-codigo-use-design-para-melhorar-seu-codigo/ | Design do código: use design para melhorar seu código | iMasters
+http://www.slideshare.net/jpvajda/lean-software-development-principles | Lean Software Development Principles
+http://www.slideshare.net/paulofurtado/levantamento-gil-de-requisitos | Levantamento Ágil de Requisitos
+http://www.slideshare.net/Ridlo/escrevendo-estrias-do-usurio-eficazes | Escrevendo Estórias do Usuário Eficazes
+http://desenvolvimentoagil.com.br/xp/praticas/build_dez | Build de Dez Minutos | XP | DesenvolvimentoAgil.com.br
+http://imasters.com.br/artigo/22977/ruby-on-rails/deploy-de-aplicacoes-rails-com-capistrano/ | Deploy de aplicações Rails com Capistrano | iMasters
