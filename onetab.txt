@@ -1,9 +1,28 @@
+http://stackoverflow.com/questions/1231561/how-to-share-common-properties-among-several-maven-projects/1265428#1265428 | configuration - How to share common properties among several maven projects? - Stack Overflow
+http://mojo.codehaus.org/properties-maven-plugin/ | Properties Maven Plugin - Introduction
+http://stackoverflow.com/questions/14196951/how-to-access-linux-environment-variables-from-maven-pom | java - How to access linux environment variables from maven pom? - Stack Overflow
+http://stackoverflow.com/questions/10463077/how-to-refer-environment-variable-in-pom-xml | java - How to refer environment variable in POM.xml? - Stack Overflow
+
+https://github.com/vert-x/vertx-maven | vert-x/vertx-maven
+https://github.com/rhart/vertx-maven-plugin/blob/master/src/main/java/org/vertx/maven/plugin/VertxServer.java | vertx-maven-plugin/src/main/java/org/vertx/maven/plugin/VertxServer.java at master · rhart/vertx-maven-plugin
+http://stackoverflow.com/questions/20927903/how-i-could-use-an-independent-log4j-instance-in-my-vert-x-application | java - How I could use an independent log4j instance in my vert.x application? - Stack Overflow
+https://groups.google.com/forum/#!topic/vertx/xhA9Gze1LM4 | log4j in my vert.x application - Grupos do Google
+http://www.smartjava.org/content/create-simpe-restful-service-vertx-20-rxjava-and-mongodb | Create a simpe RESTful service with vert.x 2.0, RxJava and mongoDB | Smartjava.org
+http://www.hascode.com/2013/11/creating-a-websocket-chat-application-with-vert-x-and-java/ | hasCode.com » Blog Archive » Creating a Websocket Chat Application with Vert.x and Java
+https://groups.google.com/forum/#!topic/vertx/xhA9Gze1LM4 | log4j in my vert.x application - Grupos do Google
+http://gvmtool.net/ | GVM by gvmtool
+http://mvnrepository.com/search.html?query=vert.x | Maven Repository: vert.x
+
+http://macmagazine.com.br/2014/04/14/dica-voce-pode-desabilitar-o-recurso-app-nap-em-qualquer-aplicativo-no-seu-mac/ | Dica: você pode desabilitar o recurso “App Nap” em qualquer aplicativo no seu Mac | MacMagazine
+https://www.google.com.br/search?q=websocket+benchmark&oq=websocket+benchmark&aqs=chrome..69i57j0l5.8278j0j7&sourceid=chrome&es_sm=119&ie=UTF-8 | websocket benchmark - Pesquisa Google
+https://www.npmjs.org/package/thor | thor
+https://www.npmjs.org/package/websocket-benchmark | websocket-benchmark
+http://stackoverflow.com/questions/1216267/ab-program-freezes-after-lots-of-requests-why | networking - 'ab' program freezes after lots of requests, why? - Stack Overflow
+
 http://www.gridshore.nl/2012/06/03/first-steps-with-vert-x-creating-a-websocket-sample/ | First steps with vert.x: creating a WebSocket sample - Gridshore
 https://github.com/eclipse/vert.x/blob/master/vertx-core/src/main/java/org/vertx/java/core/http/RouteMatcher.java | vert.x/vertx-core/src/main/java/org/vertx/java/core/http/RouteMatcher.java at master · eclipse/vert.x
 
-http://yum.globoi.com/centos/6/globo/x86_64/ | Index of /centos/6/globo/x86_64
 https://github.com/cloudfoundry/gorouter | cloudfoundry/gorouter
-http://lbaas.globoi.com/admin/logical/virtualhost/ | Select virtual host to change | LBaaS
 http://golang.org/pkg/runtime/ | runtime - The Go Programming Language
 https://gist.github.com/fsouza/10425437 | proxy.go
 http://veja.abril.com.br/noticia/celebridades/star-wars-episodio-vii-se-passara-30-anos-apos-o-retorno-de-jedi | ‘Star Wars: Episódio VII’ se passará 30 anos após 'O Retorno de Jedi'  - Celebridades - Notícia - VEJA.com
